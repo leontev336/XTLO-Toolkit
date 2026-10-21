@@ -1,7 +1,7 @@
 # XTLO-Toolkit
 Tools to help convert XTLO-formatted files to CSV and then repackage them back. 
 
-XTLO is the header of some files used in games on the Xbox 360. This tool has been created to read, exctract, convert and repackage XTLO-formatted files.
+XTLO refers to the header of some files used in games on the Xbox 360. This tool has been created to read, exctract, convert and repackage XTLO-formatted files.
 
 The tool has been created to edit .loc files in the videogame Project Gotham Racing 4, as I am not aware of any other games that use XTLO files. They might not work on others, though you are free to try.
 
